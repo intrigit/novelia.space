@@ -2,6 +2,14 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// my favorite font, EB Garamond!
+$serif: Georgia, Times, serif !default;
+$sans-serif: 'EB Garamond', "Garamond", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, "SimSun", "STSong", "Yu Mincho", sans-serif !default;
+$monospace: "Ubuntu Mono", Monaco, Consolas, "Lucida Console", monospace !default;
+
 // Typography
 
 p,
@@ -16,6 +24,7 @@ div,
 li,
 span,
 strong {
+  font-family: $sans-serif;
   color: var(--global-text-color);
 }
 
@@ -167,7 +176,7 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: $monospace;
 
     p {
       display: inline-block;
