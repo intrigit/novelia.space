@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Definition
 date: 2023-12-10 18:40:39 +0800
 description: Definitions are natural derivatives of the categorization efforts of human, a necessary component of reason.
