@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>Novelia</p><br/>
     <p>1 Novelia Ave. Exteriors</p><br/>
-    <p><a href="mailto:jx.qiu@outlook.com">jx.qiu@outlook.com</a></p>
+    <p><a href="mailto:mustorica@gmail.com">mustorica@gmail.com</a></p>
 
 latest_posts: true  # includes a list of the newest posts
 ---
