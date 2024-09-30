@@ -1,0 +1,90 @@
+aspects:
+  - Openness
+  - Conscientiousness
+  - Extroversion
+  - Agreeableness
+  - Neuroticism
+
+aspects_l:
+  - Conventional
+  - Spontaneous
+  - Introverted
+  - Disagreeable
+  - Calm
+
+aspects_r:
+  - Creative
+  - Conscientious
+  - Extroverted
+  - Agreeable
+  - Nervous
+
+aspects_desc:
+  - High scorers tend to be original, creative, curious; Low scorers tend to be pragmatic, conventional, down to earth.
+  - High scorers tend to be reliable, well-organized, self-disciplined; Low scorers tend to be flexible, spontaneous, disorganized.
+  - High scorers tend to be sociable, energetic, talkative; Low scorers tend to be introverted, reserved, self-contained.
+  - High scorers tend to be good natured, sympathetic, forgiving; Low scorers tend to be critical, uncooperative, suspicious.
+  - High scorers tend to be emotionally reactive, easily nervous, insecure; Low scorers tend to be calm, relaxed, secure.
+
+questions:
+  - are outgoing, sociable
+  - are compassionate, have a soft heart
+  - tend to be disorganized
+  - are relaxed, handle stress well
+  - have few artistic interests
+  - have an assertive personality
+  - are respectful, treat others with respect
+  - tend to be lazy
+  - stay optimistic after experiencing a setback
+  - are curious about many different things
+  - rarely feel excited or eager
+  - tend to find fault with others
+  - are dependable, steady
+  - are moody, have up and down mood swings
+  - are inventive, find clever ways to do things
+  - tend to be quiet
+  - feel little sympathy for others
+  - are systematic, like to keep things in order
+  - can be tense
+  - are fascinated by art, music, or literature
+  - are dominant, act as a leader
+  - start arguments with others
+  - have difficulty getting started on tasks
+  - feel secure, comfortable with self
+  - avoid intellectual, philosophical discussions
+  - are less active than other people
+  - have a forgiving nature
+  - can be somewhat careless
+  - are emotionally stable, not easily upset
+  - have little creativity
+  - are sometimes shy, introverted
+  - are helpful and unselfish with others
+  - keep things neat and tidy
+  - worry a lot
+  - value art and beauty
+  - find it hard to influence people
+  - are sometimes rude to others
+  - are efficient, get things done
+  - often feel sad
+  - are complex, a deep thinker
+  - are full of energy
+  - are suspicious of others’ intentions
+  - are reliable, can always be counted on
+  - keep their emotions under control
+  - have difficulty imagining things
+  - are talkative
+  - can be cold and uncaring
+  - leaves a mess, don’t clean up
+  - rarely feel anxious or afraid
+  - think poetry and plays are boring
+  - prefer to have others take charge
+  - are polite, courteous to others
+  - are persistent, work until the task is finished
+  - tend to feel depressed, blue
+  - have little interest in abstract ideas
+  - show a lot of enthusiasm
+  - assume the best about people
+  - sometimes behave irresponsibly
+  - are temperamental, get emotional easily
+  - are original, comes up with new ideas
+  - are politically liberal
