@@ -4,8 +4,7 @@ name: Docker Slim
 on:
   push:
     branches:
-      - master
-      - main
+      - novelia
     paths:
       - ".github/workflows/docker-slim.yml"
   workflow_run:

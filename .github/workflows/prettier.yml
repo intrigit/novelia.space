@@ -3,12 +3,10 @@ name: Prettier code formatter
 on:
   pull_request:
     branches:
-      - master
-      - main
+      - novelia
   push:
     branches:
-      - master
-      - main
+      - novelia
 
 jobs:
   check:
